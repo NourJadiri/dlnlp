@@ -1,0 +1,16 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+
+# Ignore datasets folder
+datasets/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
